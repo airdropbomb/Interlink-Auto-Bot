@@ -24,8 +24,7 @@ Automated bot for claiming Interlink Labs airdrop tokens, designed for the Inter
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vikitoshi/Interlink-Auto-Bot.git
-cd Interlink-Auto-Bot
+git clone https://github.com/airdropbomb/Interlink-Auto-Bot.git && cd Interlink-Auto-Bot
 ```
 
 2. Install dependencies:
